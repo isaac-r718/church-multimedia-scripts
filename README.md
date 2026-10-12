@@ -1,6 +1,6 @@
 # Church Multimedia Scripts
 
-> Colección de scripts en Lua y herramientas experimentales de automatización para OBS Studio y flujos de trabajo multimedia en transmisión de servicios religiosos. *(Collection of automation scripts and tools for OBS Studio and live-streaming workflows).*
+> Colección de scripts en Lua y herramientas experimentales de automatización para OBS Studio y flujos de trabajo multimedia en transmisión de servicios religiosos, mediante **desarrollo asistido por IA** (Claude code & Gemini). *(Collection of automation scripts and tools for OBS Studio and live-streaming workflows).*
 
 ---
 
